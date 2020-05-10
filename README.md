@@ -7,6 +7,5 @@
 
 
 ## Screenshot
-
 ![Screenshot](screenshot.png)
 
