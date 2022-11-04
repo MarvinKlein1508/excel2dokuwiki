@@ -1,0 +1,47 @@
+body {
+    font: .8em "Trebuchet MS", Verdana, Arial, Sans-Serif;
+    text-align: center;
+    color: #333;
+    background-color: #fff;
+    margin-top: 0em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+h5 {
+    font-size: 1em;
+    color: #09c;
+    font-weight: bold;
+}
+
+form {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+}
+
+
+a {
+    color: #09c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+fieldset {
+    width: 300px;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 1em auto;
+    padding: .5em;
+    font-size: 1.25rem;
+}
